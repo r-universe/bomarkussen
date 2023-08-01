@@ -2,9 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "fdaMixed"]
-	path = fdaMixed
-	url = https://github.com/cran/fdaMixed
 [submodule "LabApplStat"]
 	path = LabApplStat
 	url = https://github.com/bomarkussen/labapplstat
+[submodule "fdaMixed"]
+	path = fdaMixed
+	url = https://github.com/cran/fdaMixed
