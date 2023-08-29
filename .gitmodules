@@ -7,4 +7,4 @@
 	url = https://github.com/bomarkussen/labapplstat
 [submodule "fdaMixed"]
 	path = fdaMixed
-	url = https://github.com/cran/fdaMixed
+	url = https://github.com/bomarkussen/fdamixed
